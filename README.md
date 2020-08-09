@@ -10,8 +10,10 @@
 ---
 
 <p align="center">
-  
-
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/eugustavo/prisma2-study" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/eugustavo/prisma2-study" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/eugustavo/prisma2-study" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/eugustavo/prisma2-study" />
 </p>
 
 <br>
