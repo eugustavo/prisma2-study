@@ -1,0 +1,12 @@
+version: '3.6'
+
+services:
+  prisma-postgres:
+    image: postgres
+    container_name: prisma-postgres
+    restart: always
+    environment:
+      - POSTGRES_USERNAME=postgres
+      - POSTGRES_PASSWORD=prisma
+    ports:
+      - "5432:5432"

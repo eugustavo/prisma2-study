@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200809171839-create-user
+20200809171910-create-task
+20200809200707-update-table-task
